@@ -1,6 +1,6 @@
 (function ($) {
     "use strict";
-	
+	 
 	var $window = $(window); 
 	var $body = $('body'); 
 	
